@@ -23,4 +23,6 @@ O plano real é criar uma aplicação em formato de blog que consuma uma API ext
 
 *Axios
 
-tudo isso lançado no GitHub para manter em constante em evolução e movimento.
+Tudo isso lançado no GitHub para manter em constante em evolução e movimento.
+
+A idéia não é 'terminar o projeto', mas deixá-lo em constante evolução, sempre em stand-by e atualizando conforme for evoluindo.
